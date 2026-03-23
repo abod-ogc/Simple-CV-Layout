@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Layout 3</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper">
+
+        <div class="overlay"></div>
+        <nav class="NavBar">
+
+            <img src="Images/MyImage.jpg" alt="avatar" class="avatar">
+
+            <ul class="NavBtns">
+                <li><a href="#about" class="NavBtn active">About</a></li>
+                <li><a href="#skills" class="NavBtn">Skills</a></li>
+                <li><a href="#experience" class="NavBtn">Experience</a></li>
+                <li><a href="#projects" class="NavBtn">Projects</a></li>
+                <li><a href="#education" class="NavBtn">Education</a></li>
+            </ul>
+
+            <button class="ThemeToggle">Dark Mode</button>
+            <button class="MenueToggle">☰</button>
+        </nav>
+        <div class="SlideBar">
+            <button class="Close">X</button>
+            <ul class="NavBtns">
+                <li class="SlideBtn"><a href="#about" class="NavBtn active">About</a></li>
+                <li class="SlideBtn"><a href="#skills" class="NavBtn">Skills</a></li>
+                <li class="SlideBtn"><a href="#experience" class="NavBtn">Experience</a></li>
+                <li class="SlideBtn"><a href="#projects" class="NavBtn">Projects</a></li>
+                <li class="SlideBtn"><a href="#education" class="NavBtn">Education</a></li>
+            </ul>
+        </div>
+
+        <main>
+            <section class="block" id="about">
+                <h2>About</h2>
+                <p>Impact-driven builder of fast, accessible UIs. I care about design tokens, clean semantics, and performance budgets.</p>
+
+                <ul>
+                    <li><span>Location:</span> Amman, Jordan</li>
+                    <li><span>Languages:</span> Arabic (Native), English (Professional)</li>
+                    <li><span>Contact:</span> you@example.com • github.com/your-username</li>
+                </ul>
+            </section>
+
+            <section class="block" id="skills">
+                <h2>Skills</h2>
+                <p>CSS donuts below are pure CSS (conic-gradient). Set values with --value.</p>
+
+                <div class="skillsProgreses">
+                    <div class="skillsProgrese">
+                        <div class="skill" style="--value: 90;">
+                            <span>90%</span>
+                        </div>
+
+                        <h3>Semantic HTML</h3>
+                        <p>Landmarks, a11y, structure</p>
+                    </div>
+                    <div class="skillsProgrese">
+                        <div class="skill" style="--value: 88;">
+                            <span>88%</span>
+                        </div>
+
+                        <h3>Modern CSS</h3>
+                        <p>Grid, Flex, custom props</p>
+                    </div>
+                    <div class="skillsProgrese">
+                        <div class="skill" style="--value: 76;">
+                            <span>76%</span>
+                        </div>
+
+                        <h3>Accessibility</h3>
+                        <p>WCAG, keyboard, color</p>
+                    </div>
+                    <div class="skillsProgrese">
+                        <div class="skill" style="--value: 80;">
+                            <span>80%</span>
+                        </div>
+
+                        <h3>Tooling</h3>
+                        <p>Git, GitHub, DevTools</p>
+                    </div>
+                </div>
+            </section>
+
+            <section class="block" id="experience">
+                <h2>Experience</h2>
+                <div class="experienceBlock">
+                    <div class="headLines">
+                        <h3>Senior Front-End Developer</h3>
+                        <p>• Tech Co • 2023—Present</p>
+                    </div>
+
+                    <ul>
+                        <li><span>Location:</span> Amman, Jordan</li>
+                        <li><span>Languages:</span> Arabic (Native), English (Professional)</li>
+                        <li><span>Contact:</span> you@example.com • github.com/your-username</li>
+                    </ul>
+                </div>
+                <div class="experienceBlock">
+                    <div class="headLines">
+                        <h3>Web Designer</h3>
+                        <p>• Creative Studio • 2020—2023</p>
+                    </div>
+
+                    <ul>
+                        <li>Prototyped 12 marketing sites; established shared styles.</li>
+                        <li>Delivered semantic handoffs; boosted dev velocity.</li>
+                    </ul>
+                </div>
+            </section>
+
+            <section class="block" id="projects">
+                <h2>Selected Projects</h2>
+                
+                <div class="Projects">
+                    <a href="#" class="ProjectBlock">
+                    <h3>Portfolio Website</h3>
+                    <p>Static site, Lighthouse 95+, optimized images & fonts.</p>
+                </a>
+                <a href="#" class="ProjectBlock">
+                    <h3>Portfolio Website</h3>
+                    <p>Static site, Lighthouse 95+, optimized images & fonts.</p>
+                </a>
+                <a href="#" class="ProjectBlock">
+                    <h3>Portfolio Website</h3>
+                    <p>Static site, Lighthouse 95+, optimized images & fonts.</p>
+                </a>
+                </div>
+            </section>
+
+            <section class="block" id="education">
+                <h2>Education</h2>
+                
+                <div class="EducationBlock">
+                    <h3>B.Sc. in Computer Science</h3>
+                    <p>University Name • 2016—2020</p>
+                    <ul>
+                        <li>Graduated with Honors</li>
+                        <li>Key courses: HCI, Data Structures, Databases</li>
+                    </ul>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+                <p>© 2026 Abdullah. All rights reserved.</p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

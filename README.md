@@ -118,4 +118,4 @@ The circular progress indicators for skills are created using a `conic-gradient`
 
 You can download the starter file to build this template from scratch.
 
-donwload link:
+[Click here to download](https://drive.google.com/file/d/1ROuJYhl2DS6bUw0UUNdnVF_yIwPTDnKP/view?usp=drivesdk)

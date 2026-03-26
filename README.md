@@ -1,5 +1,7 @@
 # Simple CV Layout
 
+![Main Light](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@d77a8b07ed911a2d03864544c2aabd624aef4566/uploads/2026-03-26T16-10-11-066Z-d362cwbk1.png)
+
 A clean, responsive, single-page CV/resume template built with pure HTML, CSS, and vanilla JavaScript. It features a modern design, dark/light theme toggling, and interactive elements to create a professional online presence.
 
 ## Features
@@ -119,3 +121,33 @@ The circular progress indicators for skills are created using a `conic-gradient`
 You can download the starter file to build this template from scratch.
 
 [Click here to download](https://drive.google.com/file/d/1ROuJYhl2DS6bUw0UUNdnVF_yIwPTDnKP/view?usp=drivesdk)
+
+## Screenshots
+
+![Main Light](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@d77a8b07ed911a2d03864544c2aabd624aef4566/uploads/2026-03-26T16-10-11-066Z-d362cwbk1.png)
+
+![Main Dark](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@47aecfbd453f18fc75aff0cbd385ef46af6a6817/uploads/2026-03-26T16-14-19-342Z-t132koj49.png)
+
+![Light](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@d90102ef5bb816bce74e849e479a622c9c2a20e3/uploads/2026-03-26T16-15-18-222Z-r89dhjuy6.png)
+
+![Dark](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@64f774e200554340f55abd28ba45440751bd25cd/uploads/2026-03-26T16-16-08-952Z-outzjutv1.png)
+
+![Light](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@d399974d4cb28b244726b350613f7592e361c9ab/uploads/2026-03-26T16-17-25-467Z-eeqgr8n08.png)
+
+![Dark](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@189e37e603c4b65706fee77b1511a1689b8be95e/uploads/2026-03-26T16-17-53-841Z-vuvc75bg7.png)
+
+![Light](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@eaaa360b6cb50db43017e95aef5367425ae88113/uploads/2026-03-26T16-18-51-451Z-i0tpuq9eu.png)
+
+![Dark](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@04827e9e1a087acb40944eb84e243de7d956ac2e/uploads/2026-03-26T16-19-15-018Z-wb9xc4yev.png)
+
+![Light](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@7d3f1369e8c77dc79f79709176a4d309f2b04e92/uploads/2026-03-26T16-20-00-348Z-7m32p8yj2.png)
+
+![Dark](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@648ee4df0413859530c8ccd5889670406a1d0d3f/uploads/2026-03-26T16-21-05-506Z-kl08ucbtx.png)
+
+![Light](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@a923e409e162bcf06d32187320f7b0768314c5ca/uploads/2026-03-26T16-21-27-765Z-e4m6gmyng.png)
+
+![Dark](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@1efe3a03bd9df63f8fad54de2e6680f58223d47d/uploads/2026-03-26T16-21-46-728Z-f30fyexjc.png)
+
+![Light](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@7eebcba14e0faa52d3e1c82d38cf187036fd2d54/uploads/2026-03-26T16-22-04-508Z-uflhmvfuu.png)
+
+![Dark](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@497a8a0b74da1cf4caee2bb5e8e48eb62904d7ce/uploads/2026-03-26T16-22-23-639Z-v7ti6hkbm.png)
